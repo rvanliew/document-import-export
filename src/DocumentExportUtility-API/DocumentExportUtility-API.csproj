@@ -2,12 +2,13 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>DocumentExportUtility_API</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <UserSecretsId>d156a5e8-06f4-49cb-9d4e-1041c2c93e0c</UserSecretsId>
     <ApplicationIcon />
     <StartupObject />
+    <LangVersion>latestmajor</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
