@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentExportUtility-API", "src\DocumentExportUtility-API\DocumentExportUtility-API.csproj", "{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManager.Client", "src\DocumentManager.Client\DocumentManager.Client.csproj", "{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5EA4CA16-9160-4DD7-9BBB-A327487D5674}"
 EndProject
