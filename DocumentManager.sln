@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManager.Client", "src\DocumentManager.Client\DocumentManager.Client.csproj", "{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5EA4CA16-9160-4DD7-9BBB-A327487D5674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A23B8317-DCB3-4540-8997-04D84B7F5F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManager.Client.Test", "test\DocumentManager.Client.Test\DocumentManager.Client.Test.csproj", "{8F1AB64B-AD4B-48F4-A891-63FBBC633239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1AB64B-AD4B-48F4-A891-63FBBC633239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1AB64B-AD4B-48F4-A891-63FBBC633239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1AB64B-AD4B-48F4-A891-63FBBC633239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1AB64B-AD4B-48F4-A891-63FBBC633239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C7D5D2-4A92-4006-B132-349DF20B4F85}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FDB7451-D7C8-4247-BF7B-DD71D9DFFF46} = {5EA4CA16-9160-4DD7-9BBB-A327487D5674}
+		{8F1AB64B-AD4B-48F4-A891-63FBBC633239} = {A23B8317-DCB3-4540-8997-04D84B7F5F00}
+	EndGlobalSection
+EndGlobal
